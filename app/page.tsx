@@ -21,4 +21,5 @@ export default function Home() {
       <Footer />
     </main>
   );
-}
+}// add this line
+console.log("deploy");
